@@ -9,7 +9,7 @@ In both my personal and professional journey, I have consistently pursued challe
 * 🌍  I'm based in Brighton
 * ✉️  You can contact me at [mrc.ronchi@gmail.com](mailto:mrc.ronchi@gmail.com)
 * 🌻  You can visit [my portfolio](https://marco-rnc-portfolio.vercel.app/)
-* 🧠  I'm learning PHP & AWS
+* 🧠  I'm learning Python
 * 🔭 I’m currently working as a freelance, with [Micky](https://github.com/mickeymarse), on a website for a local coffee shop
 * 🤝  I'm open to collaborating on any open-source project
 * ⚡  I love health and fitness. I like to work out every day and keep myself active engaging in outdoor sports and spending time in nature.
