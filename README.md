@@ -6,7 +6,7 @@ full-stack developer
 
 In both my personal and professional journey, I have consistently pursued challenging experiences that contribute to the ongoing development of my potential. From achieving a BEng to relocating to the UK, and from leading both small and large teams to evolving into a full-stack developer, I find fulfilment in cultivating personal and professional growth through continuous learning and diverse experiences.
 
-* 🌍  I'm based in Brighton
+* 🌍  I'm based in Milan
 * ✉️  You can contact me at [mrc.ronchi@gmail.com](mailto:mrc.ronchi@gmail.com)
 * 🌻  You can visit [my portfolio](https://marco-rnc-portfolio.vercel.app/)
 * 🧠  I'm learning Python
