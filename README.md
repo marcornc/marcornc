@@ -1,4 +1,4 @@
-Hi 👋 My name is Marco
+Hi there! I'm Marco
 ======================
 
 full-stack developer
